@@ -1,0 +1,21 @@
+Berikut adalah beberapa daftar port protokol: 
+ 
+Port 80: Digunakan untuk mengirim dan menerima permintaan halaman dari server HTTP. 
+ 
+Port 443: Digunakan untuk HTTP Secure (HTTPS), yaitu versi HTTP yang aman dan terenkripsi. 
+ 
+Port 500: Digunakan untuk Internet Security Association and Key Management Protocol (ISAKMP), yang merupakan bagian dari proses pengaturan koneksi IPsec yang aman. 
+ 
+Port 587: Digunakan untuk SMTP modern dan aman yang menggunakan enkripsi. 
+ 
+Port 3389: Digunakan untuk Protokol Desktop Jarak Jauh (RDP), yang memungkinkan pengguna untuk terhubung dari jarak jauh ke komputer desktop mereka dari perangkat lain. 
+ 
+Port 8080: Digunakan untuk server web. 
+ 
+Port 53: Digunakan untuk komunikasi antara perangkat AppStream 2.0 pengguna dan server DNS. 
+ 
+Port 993: Digunakan oleh protokol IMAP over SSL/TLS untuk mengakses email dengan koneksi aman. 
+ 
+Port 995: Digunakan oleh protokol POP3 over SSL/TLS untuk mengambil email dengan koneksi aman. 
+ 
+Port 1025: Digunakan oleh berbagai layanan jaringan, termasuk beberapa server email dan protokol yang tidak ditentukan secara khusus.
